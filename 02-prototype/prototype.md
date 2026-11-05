@@ -4,18 +4,18 @@
 
 ## Prototype link
 
-_The public share URL from your build tool. No share URL? A screenshot of the working flow is fine, the prompt is what is assessed._
+_https://juno-evidence-backed-signal-brief.replit.app/_
 
 _____
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+_Evidence-backed signal brief: Pull themes and contradictions from Slack discussions, link each material claim to its Slack ticket and Jira ticket ID, and label unsupported findings unverified. Flag unclear source threads for clarification._
 
 _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** Signal Brief section works.  Accepting the claim info and ability to flag for additional clarification was operational.  The insights on Why this claim was opened was helpful for setting the context._____
+- **What broke / felt like a toy:** Questions before claims was clunky.  Slack and Jira is not linked, so links don't go anywhere._____
+- **What I'd change next pass:** Some of the threads and cases don't make sense.  Need to implement more guardrails for more tangible and specific claim examples.  _____
