@@ -16,6 +16,6 @@ _____
 
 ## Debrief
 
-- **What worked:** Signal Brief section works.  Accepting the claim info and ability to flag for additional clarification was operational.  The insights on Why this claim was opened was helpful for setting the context._____
-- **What broke / felt like a toy:** Questions before claims was clunky.  Slack and Jira is not linked, so links don't go anywhere._____
-- **What I'd change next pass:** Some of the threads and cases don't make sense.  Need to implement more guardrails for more tangible and specific claim examples.  _____
+- **What worked:** Signal Brief section works.  Accepting the claim info and ability to flag for additional clarification was operational.  The insights on Why this claim was opened was helpful for setting the context.
+- **What broke / felt like a toy:** Questions before claims was clunky.  Slack and Jira is not linked, so links don't go anywhere.
+- **What I'd change next pass:** Some of the threads and cases don't make sense.  Need to implement more guardrails for more tangible and specific claim examples.
