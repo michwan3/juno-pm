@@ -1,8 +1,8 @@
 # Juno PM
 
-> _(one-line pitch: what Juno does, for whom, in one sentence)_
+Juno PM takes on three ongoing jobs: synthesizing scattered signals into insight, drafting the specs that unblock delivery, and prioritizing the risks that most deserve attention.
 
-_Your name · cohort · date_
+Michael Wang - ai-product-management-nov03-26-weekdays
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
 
